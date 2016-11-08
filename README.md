@@ -1,2 +1,2 @@
 # systemecom2
-Système de commentaires en PHP-MySQL
+Système de commentaires en PHP/MySQL
