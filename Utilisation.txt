@@ -1,5 +1,5 @@
 
-Dans la bases de données "news", une table "comments" :
+Dans localhost, une bases de donnÃ©es "news", avec une table "comments" :
 
 id	int(15)			                  AUTO_INCREMENT	
 pseudo	varchar(150)	latin1_swedish_ci		
